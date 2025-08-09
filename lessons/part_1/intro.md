@@ -1,0 +1,27 @@
+<link href="../../markdown.css" rel="stylesheet"></link> 
+
+# Introduction
+*Art is the intersection of technique and imagination*
+
+This course is for non-specialists who are curious about the intersections of music, computer science and digital technology. It is included in the LUC Core Curriculum under "Quantitative and qualitative analysis and research methods." We will apply some numerical and scientific thinking towards sound and music, but also peek into some of the creative and philosophical implications of capturing or generating sound, analyzing and rearranging its fundamental components, and re-synthesizing it as an audible phenomenon. Most importantly, this course will emphasize the connections between the digital, musical, physical, and emotional worlds.
+
+## What is "Digital Music?"
+*Music made with and by computers*
+
+Broadly defined, "digital music" could encompass any form of music (making, listening, distribution) that involves digital technology of some kind. That's far too broad for this class. Because COMP/MUSC 122 is offered primarily by the Computer Science department, we will focus our attention on the parts of digital music that directly rely on computing systems and programming techniques. We might touch on streaming services and the technologies that make that possible, but most of our work will revolve around the idea of using computers to generate sound or musical gestures, with a special emphasis on musical human-machine interaction. In other words, we are looking at the intersection of musical creativity and the tools that have emerged from the digital revolution.
+
+I'm going to define Digital Music as music that is created by humans with computer-based tools or assistance, or possibly generated algorithmically by computers. In other words, I am leaving out music that is simply recorded using digital music systems to focus on music in which digital technology plays a critical creative role.
+
+A lot of the music you hear today is created, or at least modified, using digital technologies (mostly computer-based). For most of us, music is accessed and heard through some kind of digital medium (Internet streaming, digital audio playback, etc). This class can't cover everything, so we're going to leave out the technical details behind internet streaming, studio recording, and most of studio production techniques.
+
+## What this course is NOT
+
+This course is not an introduction to music studio production techniques. We will do a series of exercises using Soundtrap, an online Digital Audio Workstation (DAW), which has many of the elements of a professional production application, but is fairly limited. We use it in thos course because it is accessible, user-friendly, and inexpensive. The idea is to give you a taste of music production in the linear DAW environment without the expense of dedicated software in a studio environment. We will not be able to work in Logic Pro X, Ableton Live, or other music professional production systems in this course, but there is a Music Technology course offered by DFPA/Music with limited enrollment capacity. I have worked and taught in that area for many years, and I'm happy to talk with you about that stuff, but this course is something else.
+
+## So what is this course then?
+
+In this course, is more like a "behind the scenes" or "under the hood" look at digital audio and music systems from the computer science, coding, audio theory perspective (hence the COMP prefix). Our approach to musical creativity will be from the world of digital music programming, i.e., the interdisciplinary crossing of Computer Science and Music. Therefore, we will spend some time examining the nature of sound, the processes and theory behind digital audio systems, and various techniques and tools for direct digital synthesis, real-time control, automated music generation, and human-machine interfaces.
+
+## Do I need to be a programmer or trained musician?
+
+No. I'm designing this course to include everyone, regardless of musical or technical background. There will be many interactive activities in this course. Some will be done as a group and others will be individual activities using online or freely available resources. In some cases, you will do some targeted coding, but you will not be required to write complex programs on your own. The main requirement for this course is curiosity and a willingness to try things.

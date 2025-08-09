@@ -10,7 +10,7 @@ Linear production assignments in the Digital Audio Workstation (DAW) will take p
 Non-linear interactive music programming assignments should be done using the free code editor at <a href="https://editor.p5js.org" target="_blank">editor.p5js.org</a>
 
 1. Introduction and Overview
-    * [Why Learn Coding and/or Programming?](lessons/part_1/why.html)
+    * [Why Learn Coding and/or Programming?](lessons/part_1/intro.html)
 2. Sound
 
     2.1 Sound as Music
