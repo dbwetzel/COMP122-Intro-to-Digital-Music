@@ -19,10 +19,15 @@ Non-linear interactive music programming assignments should be done using the fr
    
     1.4 [The Technology Ensemble Play-Along](lessons/part_1/playalong.html)
 
-2. Sound
+2. The Art and Science of Sound
 
-    2.1 Sound as Music
-    2.2 Sampling
+    2.1 [Science of Sound: the Fundamental Principles](lessons/part_2/science.html)
+    2.2 Art of Sound: Making Music by Listening
+    2.3 Listening List - Ambient and Process Music
+    2.4 Digital Audio Fundamentals
+    2.5 Digital Audio File Formats
+    2.5 The Art of Sampling
+    2.6 Listening List - Sampling
 
 3. Synthesis
 
