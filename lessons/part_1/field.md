@@ -1,0 +1,38 @@
+<link href="../../markdown.css" rel="stylesheet"></link> 
+
+# The Field of Digital Music
+*What exactly are we including within the boundaries of "Digital Music?"*
+
+Digital Music is a vague term, I'll admit. It could mean a lot of things, especially as the (mostly mobile) internet becomes the primary vehicle for finding and listening to musical content. Amazon, Spotify, Apple, and others would like you to think of the term "digital music" to mean "internet music distribution" (primarily through their services, please). At the same time, digital technology plays a bigger role than ever in the recording and production of that musical content.
+
+As far as this class is concerned, we are going to concentrate on the creative side, but not really in the traditional musical sense. This is not a course in song-writing, recording,*  or studio production, and I don't expect you to have a deep background in either traditional music or computer science (whew!).
+
+Instead, we are going to define "digital music" more along the lines of the field of "computer music" -- that is, an academic and creative discipline with its roots in the confluence of the Western classical music tradition (albeit the 20th century avant-garde branch of that tradition) and modern computer science. This field now spans about 80 years of creative activity from around the globe, and its roots go back a bit further to the earliest applications of electronic music at the turn to the 20th century. The main activity of computer music is new musical composition using computers as a primary tool, but it extends to the use of computers for developing new audio technologies, performance systems, musicological research, and the application of computer science concepts (AI, data analysis, etc) to creative musical work.
+
+At the same time, we will also view creative digital music in terms of common practice among music producers, artists, and hobbyists. Much of what we take for granted now in the world of digital music is the product of creative experimentation by musicians around the world working in a variety of genres, conditions, and cultural contexts. New tools and entire art forms, such as Hip Hop, have emerged from experimentation with the tools at hand, often bending the existing technology for new, previously unimagined, uses.
+
+In other words, this course will look primarily at the use of computers for:
+
+* sound recording and sampling
+* audio synthesis and the electronic generation of sound
+* digital audio signal processing (analysis, effects, etc.)
+* analysis of sound and music (including acoustics and psychoacoustics)
+* algorithms for the composition and manipulation of music
+* interactive systems (games, live performance, environments)
+* sound diffusion & spatialization
+* graphical representations of music and sound (notation, spectrograms, animations and other visualizations)
+* data sonification (turning data sets into sound)
+* creative coding using musical programming languages
+
+### Further Reading ...
+
+* <a href="https://en.wikipedia.org/wiki/Computer_music">Computer Music - from Wikipedia</a>
+
+    This article is surprisingly brief, given the extensive footnotes and list of further reading. It's kind of the tip of the iceberg if you're trying to get a handle on "computer music" as a field of study.  
+
+* <a href="https://pages.jh.edu/jhumag/996web/compute.html">Keiger, Dale. (1996) *Extending the Orchestra*</a>
+    
+    Some personal history here. This is a write-up of what we were doing at the Peabody Computer Music studios back in the mid 90s. It was a long time ago, and I'm described in the article as a "serious young man." It's all about our quest for expressive electronic instruments and systems that extend the classical music palette.
+ 
+
+  

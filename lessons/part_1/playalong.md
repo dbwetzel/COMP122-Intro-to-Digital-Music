@@ -1,0 +1,32 @@
+<link href="../../markdown.css" rel="stylesheet"></link> 
+
+# The Accessible Technology Ensemble Play-Along
+*Using common technologies for accessible musical purposes*
+
+David B Wetzel, January 2022, rev. August 2025
+
+In fall 2016, we launched COMP/MUSC 122 version 1.0 as an introduction to digital music programming using Max/MSP software (a graphical programming environment for music and multimedia from cycling 74). Back then, I was working closely with CS graduate student Griffin Moe, who was instrumental in getting this course on the books (before I was hired to teach it). The students in the class came from a wide range of backgrounds -- some from music, some from computer science, and some from neither. All had an interest in digital tools for music, some curiosity about programming, and a sense of adventure. I had a strong desire to bring some kind of performance aspect into the course. After all, my training in computer music was specifically in performance and concert production. The challenge was to find some way to get everyone on a level "playing" field, musically and technically speaking.
+
+### LUTE and the "Laptop Play-Along"
+
+We were discussing the idea of some kind of performance that would involve simply triggering prepared musical sequences. That would allow us as a class to concentrate our efforts on designing three basic components: a sound generator (synthesizer), a sequence player, and a control system (interface). Then Griffin had a brilliant idea: why not adapt Terry Riley's 1964 minimalist master work "In C" for laptop ensemble? The final result was a performance of "In C" during our final exam period, in which students in the class performed this classic work using software synthesizers and control interfaces of their own design. We called ourselves the **Loyola University Technology Ensemble (LUTE).** Following that first semester, Griffin and I continued development of a generalized application for performing "In C" that would be accessible to "non-musicians" in a friendly "laptop play-along" setting. We launched a series of play-along events, several of which took place on campus at LUC, and twice as part of the annual <a href="https://acmusic.org/events/thirsty-ears-festival-2025/" target= "_blank">"Thirsty Ears"</a> street festival in Chicago.
+
+### Implications
+This project struck me right away as having enormous potential for getting people from all backgrounds, regardless of "talent" or training, to experience the joy of performing music in a group setting. 
+
+Playing as a part of an ensemble --helping realize the music collectively, making intense connections with the other participants, being inside the sound--is fundamentally different from listening quietly in the audience (or in the background or in earbuds). Most people don't get that experience and would be too intimidated to try if it meant having to operate a complex instrument. Our system mitigated the need for "musical skill" or instrumental proficiency as a prerequisite for playing in our ensemble. 
+
+Instead, the application did the work of playing the short musical patterns that make up "In C." All the participants have to do is press a key to get instant music. In the context of "In C" this meant that everyone was free to do what the composer wanted: *listen* to one another, *make decisions* about when to play, how often to repeat a phrase, which octave to play in, and other "higher level" ensemble thinking. This was possible even if the player had never held a musical instrument before.
+
+It was my then middle-school daughter that immediately pointed out the implications for people with disabilities, and that we could potentially harness assistive technologies to our app to expand its accessibility further. Also, it occurred to us that the next step should involve new compositions and musical structures that could appeal to different groups (middle school kids, corporate retreats, general music classes). So, this is a project that could go in a lot of directions. But to get there, we have some work to do.
+
+### Technical obstacles
+
+This project is was an awkward place by 2019. The development of a dedicated computer application for the performance of a single piece has a lot of drawbacks (about which I've written extensively). Currently, our version 1.0 app won't run on most Mac computers due to new security features for apps downloaded from outside the App Store. Furthermore, the need for Mac/Win computers to perform this piece is always a drag on accessibility and ease of setup for a crowd of non-specialists. We knew from the beginning that we would at some point need to expand our platform somehow, probably through web-based technology.
+
+### A new hope ...
+Our early experiments with the then-nascent **Web Audio API** didn't get very far in 2016-18. However, it's been a few years and the technology has developed a bit further. 
+
+The latest version of this project is a **web app** that re-creates the laptop play-along experience of "In C" with nothing more than a web browser. Here's the killer part - it works on **mobile devices** as well as **laptops** (any OS) with **nothing to install**. You can check it out at <a href="https://lute.luce.edu/InC" target="_blank">lute.luce.edu/InC</a>. This version is a collaboration with my colleague in Computer Science, George K. Thiruvathukal, Griffin Moe, and many students in previous sections of COMP/MUSC 122 since 2022. We presented this version as a workshop at the 2024 International Web Audio Conference in which we had about 20 researchers and musicians from around the world jamming together on whatever devices they brought with them that day. Here's the conference write-up: <a href="https://ecommons.luc.edu/cs_facpubs/364/" target="_blank">Terry Riley's "In C" for Mobile Ensemble</a>
+
+I'm hoping that you will be involved in developing this project further. There are a lot of roles to play. It will require programmers and musicians, to be sure, but the input and efforts of "non" specialists are invaluable in creating a project that seeks specifically to draw them into a meaningful musical experience.
