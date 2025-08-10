@@ -1,0 +1,21 @@
+<link href="../../markdown.css" rel="stylesheet"></link> 
+
+# 2.1.3 Period/Cycle/Wavelength
+
+We call a wave that repeats at regular intervals a "periodic" wave because we can graph its pattern of compressions and rarefactions as a regular cycle, or period. 
+
+A **cycle** is one complete oscillation of a wave, from equillibrium, to full compession, to full rarefaction, and back to equillibrium. 
+
+The **period** of a wave is the amount of time it takes to complete one cycle. Period (cycle duration in milliseconds) and frequency (vibrations per second) are *inversely* related: 
+    
+**frequency (Hz) = 1 / period (seconds)**
+
+> 50 Hz = 1 / 0.02 seconds (20 ms)<br>
+> 100 Hz = 1 / 0.01 soconds (10 ms)<br>
+> 440 Hz = 1 / 0.0023 seconds (2.3 ms)
+
+**Wavelength** is the physical distance one cycle of a wave would take up in the air. It's the distance between peaks (areas of compression), and it is related to both the frequency and the speed of sound. 
+
+To calculate wavelength, use the formula **λ = v/f**, where λ (lambda) is the wavelength, v is the wave's speed, and f is the frequency. For that violin note, A @ 440 Hz, we could simply divide 343/440 to get 0.7795 meters (or 767/440 to get 1.74 feet). 
+
+Wavelength is especially important for acoustical engineering - trying to make a space sound good, based on its shape, dimensions, and resulting resonances. You can use that formula to calculate **room resonances** (possible problem tones that might cause feedback or "boominess" in the sound of a room because they fit evenly in the space and therefore amplify themselves as they reflect off the walls!). For instance, a room with two parallel walls ten feet apart would have a resonance tone (or **"mode"**) at (10 = 767/f = 76.7 Hz), but the lowest resonance is actually half that frequency, or 38.35 Hz. However, every integer multiple of that lowest frequency (its "harmonics" or "overtones") will also resonate, so your acoustic treatment has to account for frequencies of 38.35 Hz, 76.7 Hz, 115.05 Hz, 153.4 Hz, 191.75 Hz, 230.1 Hz, 268.45 Hz, and so on. Those bass frequencies are the hardest to treat with acoustical panels, but they are the most important for making sound intelligible in a listening space.

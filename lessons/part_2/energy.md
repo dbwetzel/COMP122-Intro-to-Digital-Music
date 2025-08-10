@@ -1,0 +1,21 @@
+<link href="../../markdown.css" rel="stylesheet"></link> 
+
+# 2.1.1 Sound as energy transfer
+
+Sound as we generally experience it is a form of energy that is transfered from one place to another. Audible sound is a form of energy transmitted across space and time and perceived by your body as a kind of touch. Shall we break it down?
+
+## Compression/Rarefaction
+
+What happens when you clap your hands together? How does someone else in the room hear it?
+
+Well, when you clap your hands, you are crushing the air molecules together between your hands, creating an area of high pressure. Now the air molecules were quite happy with their distance from one another, and would prefer to return to that distribution (the normal air pressure in the room), so they bounce back to where they were, but maybe overshoot a little, disturbing other air molecules and creating another area of **compression**. Those molecules likewise bounce away and disturb other molecules. In between the areas of compression, the air molecules spread out, forming an area of **rarefaction**. Imagine you're on a crowded train, and someone gets shoved on one end of the car. It's kind of like that.
+
+## Wave propagation
+
+Sound travels through a medium. Mostly we think of air as the medium in which a sound travels, but it travels pretty well through water and even solid objects. How?
+
+When something disturbs the air molecules, like a hand clap, the process of compressin and rarefaction creates a **pressure wave** radiating out in all directions from the original source.
+
+When that pressure wave eventually reaches someone's ear, a tiny membrane (the ear drum) vibrates in response to the air pressure wave. This vibration is picked up by the auditory nerve and the listener perceives that pressure wave as sound.
+
+It takes time for the sound wave to get from one place to another. The rate at which sound waves travel through a medium is determined mainly by its density. The **speed of sound** in air is generally 343 meters per second (at 20 °C (68 °F), low humidity) or 767 mph. That's pretty fast, but a loud sound a mile away would still take 4.69 seconds to reach your ears. In large concert venues, sound engineers have to take these delays into account when setting up speaker arrays.
