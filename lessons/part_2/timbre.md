@@ -11,3 +11,5 @@ Why are overtones usually harmonically related to the fundamental frequency? Wel
 Wind instruments operate in a similar fashion, but the tubes that make up their bodies act as resonating air chambers (like a room). Therefore, wind and brass instruments have timbres that also rely on the harmonic series in varying combinations. The human singing voice works on the same basic principle (your head and mouth are the resonators).
 
 The exception is generally in the world of metallic percussion, such as bells and cymbals, in which many unrelated frequencies may resonate simultaneously. The term for this kind of timbre is "inharmonicity" since the different modes are not simple multiples of a clear fundamental frequency.
+
+<iframe src="https://editor.p5js.org/dbwetzel/full/ntLUe-QyS" width="800" height="700"></iframe>
