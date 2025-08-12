@@ -1,0 +1,42 @@
+<link href="../../markdown.css" rel="stylesheet"></link> 
+
+# 2.5 Digital Audio File Formats
+*Audio data files and how to tell them apart*
+
+How is digital audio is stored? There are a number of standard file types you should know about. 
+
+### Digital Audio Storage
+*Sound as numbers that never go away ...*
+
+"Digital Audio" is the representation of sound by a stream of binary-encoded numbers. As a strategy for long term storage, digital audio has some advantages and disadvantages compared to previous forms of sound recording. Sound recording has a long history. The earliest analog recorders date to the 1870s. These were mechanical recorders that etched an analog waveform directly into a medium (tin, wax, etc) with a needle connected to a diaphragm. Later versions of this concept utilized electronic amplification to achieve better fidelity and ease of use. Reproducible recorded media ("records") suddenly meant that sounds could be mass-distributed, permanently altering the relationships between music creators and listeners. Digital audio recording evolved in the 1960s and 70s, and in 1980, the first digital compact disc was released. By the late 1980s, CDs had become the primary medium for recorded music, and the digital revolution in music was well underway.
+
+As personal computers became more common and powerful throughout the 1990's and early 2000s, it was common to store entire music collections in the form of digital audio files (commonly in compressed .mp3 format, often "ripped" from one's CD collection). Within the last ten years, physical media for music distribution has become somewhat rare in favor of internet streaming services. In the case of a streaming download, no audio file is actually stored on your device. Rather, the sound is played back as the bits of data are delivered over the internet. Still, there are occasions to store music and sound files locally. This is especially true if you have aspirations to create music digitally yourself.
+
+Digital audio storage using a computer (c. 2025) still involves writing a series of 1s and 0s to a file. There are numerous file format and type options, including compressed and non-compressed formats. Also, a file format can define the potential audio quality of the recorded sound, by specifying critical parameters such as **sample rate** and precision (or **"bit resolution"**). Most common audio file formats are compatible across computing platforms, and most are industry-standard, open-source formats. The biggest advantage of a digital audio file, over, say, an analog tape recording, is that it can be copied exactly, again and again with no loss of data. However, the medium on which that data file resides is in most cases impermanent. Therefore, digital audio files require maintenance if they are to actually persist over time.
+
+**Additional Readings**
+* Peter Elsea (1996). Basics of digital recording: converting sound into numbers. http://artsites.ucsc.edu/EMS/music/tech_background/TE-16/teces_16.html
+* Brain, Marshall (2000) How Analog and Digital Recording Works. HowStuffWorks.com. https://electronics.howstuffworks.com/analog-digital.htm
+
+### Sound File Formats
+
+There is a dizzying array of sound file formats available. However, they fall into three basic categories:
+
+* **Uncompressed** (.wav, .aiff, raw PCM) - 
+    Audio data is stored in its original format with data size calculable as sample rate * bit depth (in bytes) * number of channels * duration. One minute of audio recorded in stereo at 44.1 kHz and 16-bits ("CD quality") woud take approximately 10 MB in .wav format. There is no loss of audio quality when saving in this format.
+* **Compressed "Lossy"** (.mp3, .aac) - 
+    Audio data is compressed to reduce file size for easy transfer over networks and to save disk space. However, the compression process discards some audio data, potentially leading to an audible decrease in quality, with potential distortion and digital artifacts in the sound. Uncompressing the sound back to another format does not reverse the process. However, one minute of audio at a reasonable rate of compression, such as 160 kbps, could reduce the file size by a factor of ten without too much damage to the audio (tha 10 MB stereo file is now 1 MB).
+* **Compressed "Lossless"** (FLAC, ALAC, etc) - 
+    Lossless compression uses a completely different compression algorithm from MP3 (which is simlar to JPEG compression). In a Lossless "codec" there is no loss of audio information, just a more efficient storage strategy. Lossless formats are less commonly implemented that the ubiquitous MP3.
+
+### Additional sources on audio file formats:
+
+* Adobe has a quick and easy cheat sheet style summary of common audio file formats. It's not very technical, but it does help differentiate the most common audio file formats:
+    * Adobe: <a href="https://www.adobe.com/creativecloud/video/discover/best-audio-format.html" target="_blank">Best audio format file types for audiophiles</a>
+* Wikipedia may not be a viable source for a research paper, but it sure is good for helping you get up to speed on an unfamiliar topic. It tends to be pretty thorough on technical topics and it's a virtual gold mine of additional sources (that you could cite, potentially). Always look at the list of references at the bottom of a Wikipedia article to see where the information came from. Often, the article will be full of links to further information or original/primary sources.
+    * Wikipedia: <a href="https://en.wikipedia.org/wiki/Audio_file_format" target="_blank">Audio file format</a>
+* FLAC (Free Lossless Audio Codec) is lossless compressed audio file format that is free to use (no patent restrictions) and works very much like a .zip archive, but optimized for audio. It was developed by xiph.org, which still maintains the codec and supporting software.
+    * Xiph.org: <a href="https://xiph.org/flac/" target="_blank">FLAC home page and reference</a>
+* MP3 is the standard file format used for quick reference and online sharing. It is a "lossy" format, meaning that some audio signal content is lost in the compression-decompression ("codec") process. It usually sounds good enough for casual listening (as long as the compression settings are reasonable) and it can offer around a 12:1 reduction in file size while maintaining basic listenability. Even though MP3 has been the default standard for internet audio since about 1999, it was encumbered by patents until as recently as 2017. For the longest time, MP3 support in audio applications required additional licenses and was therefore not built in to most free or low-cost production tools such as Audacity. Those patents have expired, so MP3 support is now integrated into most audio software by default. 
+
+    * Wikipedia: <a href="https://en.wikipedia.org/wiki/LAME" target="_blank">LAME - Wikipedia</a>

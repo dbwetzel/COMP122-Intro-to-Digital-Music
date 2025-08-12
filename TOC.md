@@ -29,25 +29,28 @@ Non-linear interactive music programming assignments should be done using the fr
     &nbsp;&nbsp;&nbsp;&nbsp;2.1.4 [Amplitude/Loudness](lessons/part_2/amplitude.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.1.5 [Timbre](lessons/part_2/timbre.html)<br>
 
-    2.2 Art of Sound: Making Music by Listening
+    2.2 [Art of Sound: Making Music by Listening](lessons/part_2/art.html)
 
-    2.3 Listening List - Ambient and Process Music
+    &nbsp;&nbsp;&nbsp;&nbsp; 2.2.1 [Evelyn Glennie: How to Truly Listen](lessons/part_2/glennie.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.2 [Alvin Lucier](lessons/part_2/lucier.html)
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [Pauline Oliveros](lessons/part_2/oliveros.html)
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [John Cage](lessons/part_2/cage.html)
 
-    2.4 Digital Audio Fundamentals
+    2.3 [Digital Audio Theory](lessons/part_2/audio.html)
+
+    2.4 Digital Audio Editing
 
     2.5 Digital Audio File Formats
 
-    2.5 The Art of Sampling
-
-    2.6 Listening List: Sampling
+    2.6 The Art of Sampling
 
 3. **Synthesis**
 
     3.1 Synthesis Theory
 
     3.2 Patching
-
-    3.3 Listening List: Synthesis
 
 4. **Sequencing**
 
@@ -56,8 +59,6 @@ Non-linear interactive music programming assignments should be done using the fr
     4.2 Beats
 
     4.3 Note Patterns
-
-    4.4 Listening: In C by Terry Riley
 
 5. **Algorithms & Generative Music**
 

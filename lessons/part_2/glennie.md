@@ -1,0 +1,16 @@
+<link href="../../markdown.css" rel="stylesheet"></link> 
+
+# Dame Evelyn Glennie: How to Truly Listen
+*TED talk from 2003*
+
+Deaf percussionist Dame Evelyn Glennie talks about her experience as a musician with profound hearing loss and how she is able to listen with her whole body. 
+
+Glennie is one of the leading professional percussionists in the world today and appears regularly with orchestras as a concert soloist. Yet, she lost her hearing by the age of 12. How does she do it? This video is absolutely worth an hour of your time. Not only is it inspiring, but she demonstrates some percussion techniques that are nothing short of astounding. 
+
+Her main message is that **listening is not the same as hearing**. Listening is full attention, and it involves more than your ears.
+
+This talk has nothing to do with digital technology, except that developing your capacity to truly listen to sound on a micro level is a prerequisite to understanding and harnessing the potential of digital technologies for music and art.
+
+<a href="https://sakai.luc.edu/access/lessonbuilder/item/32048936/" target="_blank">Evelyn Glennie: How to Truly Listen</a>
+
+<div style="max-width:1024px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/evelyn_glennie_how_to_truly_listen" width="1024px" height="576px" title="How to truly listen" style="position:absolute;left:0;top:0;width:100%;height:100%"  frameborder="0" scrolling="no" allowfullscreen onload="window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')"></iframe></div></div>

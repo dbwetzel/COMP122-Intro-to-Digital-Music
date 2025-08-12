@@ -1,0 +1,20 @@
+<link href="../../markdown.css" rel="stylesheet"></link> 
+
+# 2.3 Digital Audio theory
+*Sound as Numbers*
+
+When we talk about "digital audio" we refer specifically to the **numerical representation of a sound wave**. As we discussed previously, a sound wave is a form of acoustical energy, which is sound that you hear or sense physically in space. Before a sound can be stored or processed as a stream of numerical values, it must be converted, or transduced, into electrical energy. The conversion from acoustical energy to electrical energy (as a fluctuating voltage) is not exact, but is a close analogy to the acoustical event. We call this **"analog"** audio. When an analog audio signal (from, say, a microphone) is passed to an **Analog to Digital Converter (ADC)**, the fluctuating voltage is measured and recorded periodically as a stream of digital values at a speed of many thousand times per second. These numerical values (a "digital audio signal") can be stored, processed, and played back. On playback, the process operates in reverse: The digital signal stream is passed to a **Digital to Analog Converter (DAC)**, which turns it into a fluctuating voltage that is then passed to a set of loudspeakers that generate a corresponding acoustical wave.
+
+### Important terms
+
+* **Digital Sampling** - the periodic measurement of an analog signal, encoded as a digital value
+* **Sample Rate** - the rate per second of audio sampling (commonly 44.1 kHz or 48 kHz)
+* **Sample Format**, or **bit depth**/resolution - the precision of each sample as made possible by the number of bits per sample (typically 16 or 24 pits per sample)
+* **Nyquist frequency** - the sampling rate required of a digital sampling system for capture of a desired frequency component (generally 2x the desired frequency)
+* **Quantization error** - inaccuracies in digital signal amplitude measurement due to inadequate bit resolution
+* **Analog to Digital Conversion (ADC)** - a device that converts an analog signal to a digital signal
+* **Digital to Analog Conversion (DAC)** - a device that converts a digital signal to an analog signal
+* **Clipping** - a digital signal that is above "full scale," meaning that the signal amplitude is greater than the capacity of the given bit resolution. The signal is "too hot" and results in harsh distortion
+* **Compression** - reduction in file size by various means for bandwidth considerations, such as MP3. 
+    > Disambiguation: compression is also a form of "dynamics" processing that reduces signal volume fluctuations
+* **Bit Rate** or **Bandwidth** - the amount of digital data per second required for playback of a sound
