@@ -32,19 +32,20 @@ Non-linear interactive music programming assignments should be done using the fr
     2.2 [Art of Sound: Making Music by Listening](lessons/part_2/art.html)
 
     &nbsp;&nbsp;&nbsp;&nbsp; 2.2.1 [Evelyn Glennie: How to Truly Listen](lessons/part_2/glennie.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.2.2 [Alvin Lucier](lessons/part_2/lucier.html)
-    <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [Pauline Oliveros](lessons/part_2/oliveros.html)
-    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.2 [Alvin Lucier](lessons/part_2/lucier.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [Pauline Oliveros](lessons/part_2/oliveros.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [John Cage](lessons/part_2/cage.html)
 
     2.3 [Digital Audio Theory](lessons/part_2/audio.html)
 
-    2.4 Digital Audio Editing
+    2.4 [Digital Audio Editing](lessons/part_2/editing.html)
 
-    2.5 Digital Audio File Formats
+    2.5 [Digital Audio File Formats](lessons/part_2/formats.html)
 
-    2.6 The Art of Sampling
+    2.6 [The Art of Sampling](lessons/part_2/sampling.html)
+
+    &nbsp;&nbsp;&nbsp;&nbsp; 2.6.1 [Who Sampled?](lessons/part_2/whosampled.html)
+    &nbsp;&nbsp;&nbsp;&nbsp; 2.6.2 Different Trains
 
 3. **Synthesis**
 
