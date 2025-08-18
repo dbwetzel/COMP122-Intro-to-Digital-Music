@@ -9,15 +9,13 @@ Linear production assignments in the Digital Audio Workstation (DAW) will take p
 
 Non-linear interactive music programming assignments should be done using the free code editor at <a href="https://editor.p5js.org" target="_blank">editor.p5js.org</a>
 
-1. [**Introduction and Overview**](lessons/part_1/intro.html)
+1. [**Introduction and Overview**](lessons/part_1/1.intro.html)
 
-    1.1 [The Field of Digital Music](lessons/part_1/field.html)
+    1.1 [The Field of Digital Music](lessons/part_1/1.1.field.html)
     
-    1.2 [STEAM](lessons/part_1/steam.html) - or why the Arts are central to our understanding of technology
-    
-    1.3 [Digital Music is for Everyone](lessons/part_1/everyone.html)
+    1.2 [Digital Music is for Everyone](lessons/part_1/1.2.everyone.html)
    
-    1.4 [The Technology Ensemble Play-Along](lessons/part_1/playalong.html)
+    1.4 [The Technology Ensemble Play-Along](lessons/part_1/1.3.playalong.html)
 
 2. **The Art and Science of Sound**
 
@@ -27,25 +25,25 @@ Non-linear interactive music programming assignments should be done using the fr
     &nbsp;&nbsp;&nbsp;&nbsp;2.1.2 [Frequency/Pitch](lessons/part_2/2.1.2.frequency.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.1.3 [Period/Cycle/Wavelength](lessons/part_2/2.1.3.period.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.1.4 [Amplitude/Loudness](lessons/part_2/2.1.4.amplitude.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.1.5 [Timbre](lessons/part_2/timbre.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.1.5 [Timbre](lessons/part_2/2.1.5.timbre.html)<br>
 
     2.2 [Art of Sound: Making Music by Listening](lessons/part_2/art.html)
 
-    &nbsp;&nbsp;&nbsp;&nbsp; 2.2.1 [Evelyn Glennie: How to Truly Listen](lessons/part_2/glennie.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.2.2 [Alvin Lucier](lessons/part_2/lucier.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [Pauline Oliveros](lessons/part_2/oliveros.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [John Cage](lessons/part_2/cage.html)
+    &nbsp;&nbsp;&nbsp;&nbsp; 2.2.1 [Evelyn Glennie: How to Truly Listen](lessons/part_2/2.2.1.glennie.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.2 [Alvin Lucier](lessons/part_2/2.2.2.lucier.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [Pauline Oliveros](lessons/part_2/2.2.3.oliveros.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.4 [John Cage](lessons/part_2/2.2.4.cage.html)
 
-    2.3 [Digital Audio Theory](lessons/part_2/audio.html)
+    2.3 Digital Audio
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;2.3.1 [Digital Audio Theory](lessons/part_2/2.3.1.audio.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.3.2 [Digital Audio Editing](lessons/part_2/2.3.2.editing.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.3.3 [Digital Audio File Formats](lessons/part_2/2.3.3.formats.html)
 
-    2.4 [Digital Audio Editing](lessons/part_2/editing.html)
+    2.4 [The Art of Sampling](lessons/part_2/sampling.html)
 
-    2.5 [Digital Audio File Formats](lessons/part_2/formats.html)
-
-    2.6 [The Art of Sampling](lessons/part_2/sampling.html)
-
-    &nbsp;&nbsp;&nbsp;&nbsp; 2.6.1 [Who Sampled?](lessons/part_2/whosampled.html)
-    &nbsp;&nbsp;&nbsp;&nbsp; 2.6.2 Different Trains
+    &nbsp;&nbsp;&nbsp;&nbsp;2.4.1 [Who Sampled?](lessons/part_2/2.4.1.whosampled.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.4.2 Different Trains
 
 3. **Synthesis**
 
