@@ -1,6 +1,30 @@
 <link href="../../markdown.css" rel="stylesheet"></link> 
 
-# Digital Music is for Everyone
+# Why study "Digital Music?"
+*Is this a thing?*
+
+When I first proposed my doctoral thesis topic, on the problem of "technological obsolescence" in the area of interactive electroacoustic music, my clarinet teacher cocked his head and asked, "is this a thing?"
+
+Well, interactive electroacoustic music is a very thin branch of contemporary classical music, but one with a fairly long history, and if technological obsolescence wasn't such a persistent problem, a rich repertoire as well. So yes, it's a thing. My interest was in concert works for clarinet and interactive electronics -- music composed for a standard instrument, but accompanied by often experimental and non-standard technologies that need to function on stage if the work is to be performed. You can read more about that work <a href = "https://dbw.live-website.com/research/dma-dissertation-2004/">here. </a>
+
+The point is that I learned things about *music* by studying how music and technology interact. I also learned things about *technology* by employing it for my art. This work required a truly *interdisciplinary* approach, in which musical performance practice, computer science, and software/sound engineering were all part of the same thing. When a technology is worth pursuing, it *reveals* things about the world around us.
+
+## STEAM Education
+*Science, Technology, Engineering, ARTS, and Mathematics*
+
+**Why are the Arts important?** Why not concentrate on "practical" subjects like science and math, and leave the "extra" *artsy* stuff to the handful of dreamers and privileged types that can afford it?
+
+**Here's a better question** - Why aren't the arts *central* to our exploration of technical subjects? 
+
+After all, the creation of art often requires at least some contact with disciplines typically considered part of STEM. In any computer-based art form, that is especially true. 
+
+In order to create music with a computer, you will need to define the sounds, specify parameters, and possibly develop algorithms to guide the generation of musical ideas. It also requires a basic understanding of the science of sound and some understanding of the theoretical concepts upon which it rests. 
+
+Therefore, digital music (or "computer music," "music technology," "electroacoustic music," or whatever you want to call it) is inherently a "STEAM" subject. Digital Music isn't just a way to dress up the dry study of computer science and audio theory. 
+
+**In Digital Music, the point is to make something musical and expressive.** The rest (the science, technology, engineering, and math) follows according to the requirements of the artistic vision or task.
+
+## Digital Music is for Everyone
 *How does the "non" musician or non-programmer participate?*
 
 Digital technology in music has always had this promise of expanding our horizons. 
