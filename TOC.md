@@ -21,12 +21,12 @@ Non-linear interactive music programming assignments should be done using the fr
 
 2. **The Art and Science of Sound**
 
-    2.1 [Science of Sound: the Fundamental Principles](lessons/part_2/science.html)
+    2.1 [Science of Sound: the Fundamental Principles](lessons/part_2/2.1.science.html)
     
-    &nbsp;&nbsp;&nbsp;&nbsp;2.1.1 [Sound as Energy Transfer](lessons/part_2/energy.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.1.2 [Frequency/Pitch](lessons/part_2/frequency.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.1.3 [Period/Cycle/Wavelength](lessons/part_2/period.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.1.4 [Amplitude/Loudness](lessons/part_2/amplitude.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.1.1 [Sound as Energy Transfer](lessons/part_2/2.1.1.energy.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.1.2 [Frequency/Pitch](lessons/part_2/2.1.2.frequency.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.1.3 [Period/Cycle/Wavelength](lessons/part_2/2.1.3.period.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.1.4 [Amplitude/Loudness](lessons/part_2/2.1.4.amplitude.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.1.5 [Timbre](lessons/part_2/timbre.html)<br>
 
     2.2 [Art of Sound: Making Music by Listening](lessons/part_2/art.html)
