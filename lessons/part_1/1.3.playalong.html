@@ -15,7 +15,16 @@
       </head>
     <body>  
         <div id="playalong">
-            <zero-md src="1.3.playalong.md"></zero-md>
-          </div>
+          <zero-md src="1.3.playalong.md"></zero-md>
+        </div>
+        <div style="display: flex; justify-content: space-between;">
+          <button id="Prev">Previous ...</button>
+        </div>
+        <script>
+          document.getElementById("Prev").addEventListener('click', ()=>{
+            window.location.href = "1.2.everyone.html";
+          });               
+        </script>
+
     </body>
 </html>

@@ -15,7 +15,7 @@ Non-linear interactive music programming assignments should be done using the fr
     
     1.2 [Digital Music is for Everyone](lessons/part_1/1.2.everyone.html)
    
-    1.4 [The Technology Ensemble Play-Along](lessons/part_1/1.3.playalong.html)
+    1.3 [The Technology Ensemble Play-Along](lessons/part_1/1.3.playalong.html)
 
 2. **The Art and Science of Sound**
 

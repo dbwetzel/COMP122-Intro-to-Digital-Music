@@ -17,5 +17,17 @@
         <div id="field">
             <zero-md src="1.1.field.md"></zero-md>
           </div>
+        <div style="display: flex; justify-content: space-between;">
+          <button id="Prev">Previous ...</button>
+          <button id="Next">Next ...</button>
+        </div>
+        <script>
+          document.getElementById("Prev").addEventListener('click', ()=>{
+            window.location.href = "1.intro.html";
+          });        
+          document.getElementById("Next").addEventListener('click', ()=>{
+            window.location.href = "1.2.everyone.html";
+          });        
+        </script>
     </body>
 </html>
