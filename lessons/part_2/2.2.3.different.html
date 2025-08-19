@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width">
         <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
         <meta http-equiv="Expires" content="0" />
-        <title>The Art of Sampling</title>
+        <title>Different Trains</title>
         <link href="../../style.css" rel="stylesheet" type="text/css" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"> </script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.8.32/Tone.js"> </script>
@@ -15,8 +15,16 @@
         <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
       </head>
     <body>
-      <div id="sampling">
-            <zero-md src="2.4.sampling.md"></zero-md>
+      <div id="different">
+            <zero-md src="2.2.3.different.md"></zero-md>
           </div>
+        <div style="display: flex; justify-content: space-between;">
+          <button id="Prev">< Previous</button>
+        </div>
+        <script>
+          document.getElementById("Prev").addEventListener('click', ()=>{
+            window.location.href = "2.2.2.whosampled.html";
+          });        
+        </script>
     </body>
 </html>

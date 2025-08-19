@@ -15,7 +15,19 @@
       </head>
     <body>
       <div id="editing">
-            <zero-md src="2.3.2.editing.html"></zero-md>
+            <zero-md src="2.1.2.editing.html"></zero-md>
           </div>
+        <div style="display: flex; justify-content: space-between;">
+          <button id="Prev">< Previous</button>
+          <button id="Next">Formats ...</button>
+        </div>
+        <script>
+          document.getElementById("Prev").addEventListener('click', ()=>{
+            window.location.href = "2.1.1.theory.html";
+          });        
+          document.getElementById("Next").addEventListener('click', ()=>{
+            window.location.href = "2.1.3.formats.html";
+          });        
+        </script>
     </body>
 </html>
