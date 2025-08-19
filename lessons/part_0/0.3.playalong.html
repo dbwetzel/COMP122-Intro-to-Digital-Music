@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width">
         <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
         <meta http-equiv="Expires" content="0" />
-        <title>Introduction to COMP/MUSC 122</title>
+        <title>Mobile Technology Play Along</title>
         <link href="../../style.css" rel="stylesheet" type="text/css" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"> </script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.8.32/Tone.js"> </script>
@@ -13,19 +13,18 @@
         <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
         <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
       </head>
-    <body>
-        <div id="intro">
-            <zero-md src="1.intro.md"></zero-md>
-          </div>
-      <div style="display: flex; justify-content: space-between;">
-        <button id="Next">Next ...</button>
-      </div>
+    <body>  
+        <div id="playalong">
+          <zero-md src="0.3.playalong.md"></zero-md>
+        </div>
+        <div style="display: flex; justify-content: space-between;">
+          <button id="Prev">< Previous</button>
+        </div>
         <script>
-          document.getElementById("Next").addEventListener('click', ()=>{
-            window.location.href = "1.1.field.html";
-          });        
+          document.getElementById("Prev").addEventListener('click', ()=>{
+            window.location.href = "0.2.everyone.html";
+          });               
         </script>
-        
 
     </body>
 </html>

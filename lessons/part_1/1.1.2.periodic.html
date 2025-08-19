@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width">
         <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
         <meta http-equiv="Expires" content="0" />
-        <title>Frequency and Pitch</title>
+        <title>Periodic Waves</title>
         <link href="../../style.css" rel="stylesheet" type="text/css" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"> </script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/14.8.32/Tone.js"> </script>
@@ -14,8 +14,20 @@
         <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
       </head>
     <body>
-      <div id="frequency">
-            <zero-md src="2.1.2.frequency.md"></zero-md>
+      <div id="period">
+            <zero-md src="1.1.2.periodic.md"></zero-md>
           </div>
+        <div style="display: flex; justify-content: space-between;">
+          <button id="Prev">< Previous</button>
+          <button id="Next">Amplitude ...</button>
+        </div>
+        <script>
+          document.getElementById("Prev").addEventListener('click', ()=>{
+            window.location.href = "1.1.1.energy.html";
+          });        
+          document.getElementById("Next").addEventListener('click', ()=>{
+            window.location.href = "1.1.3.amplitude.html";
+          });        
+        </script>
     </body>
 </html>
