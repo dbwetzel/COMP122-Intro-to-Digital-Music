@@ -34,19 +34,19 @@ Non-linear interactive music programming assignments should be done using the fr
     &nbsp;&nbsp;&nbsp;&nbsp;1.2.3 [Pauline Oliveros](lessons/part_1/2.2.3.oliveros.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;1.2.4 [John Cage](lessons/part_1/1.2.4.cage.html)
 
-2. **Digital Audio**
+2. [**Digital Audio**](lessons/part_2/2.audio.html)
     
-    2.1 Turning Sound into Numbers
+    2.1 [Turning Sound into Numbers](lessons/part_2/2.1.numbers.html)
 
     &nbsp;&nbsp;&nbsp;&nbsp;2.3.1 [Digital Audio Theory](lessons/part_2/2.3.1.audio.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.3.2 [Digital Audio Editing](lessons/part_2/2.3.2.editing.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.3.3 [Digital Audio File Formats](lessons/part_2/2.3.3.formats.html)
 
-    2.2 Turning Sound into Music
+    2.2 [Turning Sound into Music](lessons/part_2/2.2.music.html)
     
     &nbsp;&nbsp;&nbsp;&nbsp;2.2.1 [The Art of Sampling](lessons/part_2/sampling.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.2.2 [Who Sampled?](lessons/part_2/2.4.1.whosampled.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 Different Trains
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [Different Trains](lessons/part_2/2.2.3.different.html)
 
 3. **Synthesis**
 
