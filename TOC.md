@@ -44,15 +44,19 @@ Non-linear interactive music programming assignments should be done using the fr
 
     2.2 [Turning Sound into Music](lessons/part_2/2.2.music.html)
     
-    &nbsp;&nbsp;&nbsp;&nbsp;2.2.1 [The Art of Sampling](lessons/part_2/sampling.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.2.2 [Who Sampled?](lessons/part_2/2.4.1.whosampled.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.1 [The Art of Sampling](lessons/part_2/2.2.1.sampling.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.2 [Who Sampled?](lessons/part_2/2.2.2.whosampled.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [Different Trains](lessons/part_2/2.2.3.different.html)
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.4 [Freedom](lessons/part_2/2.2.4.freedom.html)
 
-3. **Synthesis**
+3. [**Synthesis**](lessons/part_3/3.Synthesis.html)
 
     3.1 Synthesis Theory
 
+
     3.2 Patching
+    
+    &nbsp;&nbsp;&nbsp;&nbsp;3.2.1 [Make a synth patch](lessons/part_2/2.3.1.synth-editor.html)<br>
 
 4. **Sequencing**
 

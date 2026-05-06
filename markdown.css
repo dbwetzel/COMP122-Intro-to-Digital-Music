@@ -12,6 +12,9 @@
     margin: 0;
     box-sizing: border-box;
   }
+  body {
+    background-color: #cdcfcf;
+  }
 
   /* Headings use a different font because they’re hipsters. */
   h1,
