@@ -1,7 +1,7 @@
 var molecules = [];
 var waves = [];
 var osc1;
-var waveInterval = 60;
+var waveInterval = 30;
 
 function setup() {
   createCanvas(400, 400);
@@ -35,7 +35,7 @@ function draw() {
       waves.push(new Wave(width/2, height/2));
   } 
   if(waveInterval == 0){
-    waveInterval = 60
+    waveInterval = 30
   }
   
   waves.forEach((wave) => {
@@ -62,7 +62,7 @@ function draw() {
 
 function mousePressed(){
   waves.push(new Wave(width/2, height/2));
-  waveInterval = 60;
+  waveInterval = 30;
 }
 
 class Wave{
@@ -81,7 +81,7 @@ class Wave{
     ellipse(0, 0, this.d);
     //text(this.d, 0, this.d/2)
     pop();
-    this.d ++;
+    this.d +=2;
   }
 }
 
