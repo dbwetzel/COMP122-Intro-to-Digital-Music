@@ -1,6 +1,7 @@
 var molecules = [];
 var waves = [];
 var osc1;
+var waveInterval = 60;
 
 function setup() {
   createCanvas(400, 400);
@@ -29,14 +30,12 @@ function draw() {
     }
     
   }
-  
-  if(mouseIsPressed){
-    if(frameCount % 60 == 0){
+  waveInterval --; // count down from 60
+  if(mouseIsPressed && waveInterval == 0){
       waves.push(new Wave(width/2, height/2));
-    }
-    //osc1.amp(1);
-  } else {
-    osc1.amp(0);
+  } 
+  if(waveInterval == 0){
+    waveInterval = 60
   }
   
   waves.forEach((wave) => {
@@ -52,9 +51,9 @@ function draw() {
   
   push();
   translate(width/2, height/2)
-  fill("green");
+  fill(0, 255, 0, 200);
   ellipse(0, 0, 40);
-  fill("white");
+  fill(80);
   textAlign(CENTER, CENTER);
   text("Press", 0, 0)
   pop();
@@ -62,7 +61,8 @@ function draw() {
 }
 
 function mousePressed(){
-  osc1.start();
+  waves.push(new Wave(width/2, height/2));
+  waveInterval = 60;
 }
 
 class Wave{
@@ -76,6 +76,7 @@ class Wave{
     push();
     translate(this.x, this.y);
     stroke("red");
+    noStroke();
     noFill();
     ellipse(0, 0, this.d);
     //text(this.d, 0, this.d/2)
