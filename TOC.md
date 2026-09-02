@@ -51,30 +51,32 @@ Non-linear interactive music programming assignments should be done using the fr
 
 3. [**Synthesis**](lessons/part_3/3.Synthesis.html)
 
-    3.1 [Synthesis Theory](lessons/part_3/3.1.synth-theory.html)
+    3.1 [Synthesis Theory](3.1.synth-theory.html)
 
-    3.2 Synthesizer History
+    3.2 [Synthesizer History](3.2.synth-history.html)
 
-    3.3 Listening for Synths in Music
+    3.3 [Listening for Synths in Music](3.3.synth-listening.html)
     
-    3.4 [Make a synth patch](lessons/part_3/3.4.synth-editor.html)<br>
+    3.4 [Create and edit a synth patch](3.4.synth-edit.html)
 
-4. **Sequencing**
+4. [**Sequencing**](/lessons/part_4/4.Sequencing.html)
 
-    4.1 Musical Time
+    4.1 [Musical Time](4.1.musical-time.html)
 
-    4.2 Beats
+    4.2 [Beat Patterns](4.2.beat-patterns.html)
 
-    4.3 Note Patterns
+    4.3 [Note Sequences](4.3.note-sequences.html)
 
-5. **Algorithms & Generative Music**
+    4.4 [Listening: Terry Riley's "In C"](4.4.listening-InC.html)
 
-    5.1 Simple Music Processors
+5. [**Algorithms & Generative Music**](/lessons/part_5/5.Algorithms.html)
 
-    5.2 Algorithmic Composition
+    5.1 [Automation & Simple Music Processors](/lessons/part_5/5.1.automation.html)
 
-    5.3 Markov Chains
+    5.2 [Algorithmic Composition](/lessons/part_5/5.2.algo-comp.html)
 
-    5.4 Data Sonification
+    5.3 [Markov Chains](/lessons/part_5/5.3.markov.html)
 
-    5.5 Generative/Imitative AI
+    5.4 [Data Sonification](/lessons/part_5/5.4.data-sonification.html)
+
+    5.5 [Machine Learning/Listening](/lessons/part_5/5.5.machine-learning.html)
