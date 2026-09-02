@@ -22,10 +22,10 @@ Non-linear interactive music programming assignments should be done using the fr
     1.1 [Science of Sound: the Fundamental Principles](lessons/part_1/1.1.science.html)
     
     &nbsp;&nbsp;&nbsp;&nbsp;1.1.1 [Sound as Energy Transfer](lessons/part_1/1.1.1.energy.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;1.1.2 [Frequency/Pitch](lessons/part_1/1.1.2.frequency.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;1.1.3 [Period/Cycle/Wavelength](lessons/part_1/1.1.3.period.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;1.1.4 [Amplitude/Loudness](lessons/part_1/1.1.4.amplitude.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;1.1.5 [Timbre](lessons/part_1/1.1.5.timbre.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.1.2 [Period/Cycle/Wavelength](lessons/part_1/1.1.2.periodic.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.1.3 [Amplitude/Loudness](lessons/part_1/1.1.3.amplitude.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.1.4 [Timbre](lessons/part_1/1.1.4.timbre.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.1.5 [Room Resonance](lessons/part_1/1.1.5.timbre.html) (live demonstration)<br>
 
     1.2 [Art of Sound: Making Music by Listening](lessons/part_1/1.2.art.html)
 
@@ -51,12 +51,13 @@ Non-linear interactive music programming assignments should be done using the fr
 
 3. [**Synthesis**](lessons/part_3/3.Synthesis.html)
 
-    3.1 Synthesis Theory
+    3.1 [Synthesis Theory](lessons/part_3/3.1.synth-theory.html)
 
+    3.2 Synthesizer History
 
-    3.2 Patching
+    3.3 Listening for Synths in Music
     
-    &nbsp;&nbsp;&nbsp;&nbsp;3.2.1 [Make a synth patch](lessons/part_2/2.3.1.synth-editor.html)<br>
+    3.4 [Make a synth patch](lessons/part_3/3.4.synth-editor.html)<br>
 
 4. **Sequencing**
 
