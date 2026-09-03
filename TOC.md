@@ -31,7 +31,7 @@ Non-linear interactive music programming assignments should be done using the fr
 
     &nbsp;&nbsp;&nbsp;&nbsp;1.2.1 [Evelyn Glennie: How to Truly Listen](lessons/part_1/1.2.1.glennie.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;1.2.2 [Alvin Lucier](lessons/part_1/1.2.2.lucier.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;1.2.3 [Pauline Oliveros](lessons/part_1/2.2.3.oliveros.html)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.2.3 [Pauline Oliveros](lessons/part_1/1.2.3.oliveros.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;1.2.4 [John Cage](lessons/part_1/1.2.4.cage.html)
 
 2. [**Digital Audio**](lessons/part_2/2.audio.html)
