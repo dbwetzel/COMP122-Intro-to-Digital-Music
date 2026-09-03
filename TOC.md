@@ -46,7 +46,7 @@ Non-linear interactive music programming assignments should be done using the fr
     
     &nbsp;&nbsp;&nbsp;&nbsp;2.2.1 [The Art of Sampling](lessons/part_2/2.2.1.sampling.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.2.2 [Who Sampled?](lessons/part_2/2.2.2.whosampled.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [Different Trains](lessons/part_2/2.2.3.different.html)
+    &nbsp;&nbsp;&nbsp;&nbsp;2.2.3 [Different Trains](lessons/part_2/2.2.3.different.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2.2.4 [Freedom](lessons/part_2/2.2.4.freedom.html)
 
 3. [**Synthesis**](lessons/part_3/3.Synthesis.html)
