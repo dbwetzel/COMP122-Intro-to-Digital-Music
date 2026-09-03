@@ -79,4 +79,4 @@ Non-linear interactive music programming assignments should be done using the fr
 
     5.4 [Data Sonification](lessons/part_5/5.4.data-sonification.html)
 
-    5.5 [Machine Learning/Listening](lessons/part_5/5.5.machine-learning.html)
+    5.5 [Machine Learning/Listening](lessons/part_5/5.5.machine-listening.html)
