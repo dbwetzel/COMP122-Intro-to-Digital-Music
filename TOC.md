@@ -25,7 +25,7 @@ Non-linear interactive music programming assignments should be done using the fr
     &nbsp;&nbsp;&nbsp;&nbsp;1.1.2 [Period/Cycle/Wavelength](lessons/part_1/1.1.2.periodic.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;1.1.3 [Amplitude/Loudness](lessons/part_1/1.1.3.amplitude.html)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;1.1.4 [Timbre](lessons/part_1/1.1.4.timbre.html)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;1.1.5 [Room Resonance](lessons/part_1/1.1.5.timbre.html) (live demonstration)<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;1.1.5 [Resonance](lessons/part_1/1.1.5.resonance.html) (live demonstration)<br>
 
     1.2 [Art of Sound: Making Music by Listening](lessons/part_1/1.2.art.html)
 
