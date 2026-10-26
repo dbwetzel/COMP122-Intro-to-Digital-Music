@@ -1,0 +1,213 @@
+:root {
+    --color-lightest: #f9fdfe;
+    --color-gray-light: #cdcfcf;
+    --color-gray-medium: #686a69;
+    --color-gray-dark: #414643;
+    --color-darkest: #2a2f2c;
+  }
+  
+  *,
+  ::before,
+  ::after {
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background: var(--color-lightest);
+    color: var(--color-gray-medium);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+      Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 18px;
+    line-height: 1.2;
+    border: 2px solid;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  /* Headings use a different font because they’re hipsters. */
+  h1,
+  h2 {
+    color: var(--color-darkest);
+    font-size: 110%;
+    line-height: 1.2;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+  }
+  
+  h1 {
+    font-size: 125%;
+  }
+
+p {
+  padding: 15px
+}
+
+.menu {
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 5px 5px;
+  background-color: var(--color-gray-medium);
+  color: white;
+}
+
+.menu:hover {
+  background-color: maroon;
+}
+
+.button {
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 3px 5px;
+  background-color: var(--color-gray-medium);
+  color: white;
+  min-width: 30px;
+  min-height: 25px;
+}
+
+.button:hover {
+  background-color: maroon;
+}
+
+.checkbox {
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 5px 10px;
+  background-color: var(--color-gray-medium);
+  color: white;
+  min-width: 30px;
+  min-height: 25px;
+  font-size: 14px;
+}
+
+.checkbox input{
+  margin: 0 5px;
+}
+
+.input {
+  border-radius: 5px;
+  padding: 5px 5px;
+  background-color: var(--color-gray-medium);
+  color: white;
+}
+
+
+
+#title {
+    width: 600px;
+    margin: auto;
+}
+
+#metronome {
+    width: 505px;
+    border: 2px solid maroon;
+    border-radius: 5px;
+    background-color: lightgray;
+    position: relative;
+    margin: auto;
+}
+
+#addSample {
+    width: 600px;
+    margin: auto;
+    padding: 0.5em;
+}
+
+#library {
+    width: 550px; 
+    height: 350px;
+    border-radius: 5px;
+    overflow-y: scroll;
+    border: 2px solid black;
+    background-color: beige;
+    padding: 0.5em;
+    display: grid;
+    grid-template-columns: 150px 362px; 
+    column-gap: 10px;
+    row-gap: 10px;
+    margin: auto;
+    align-content: baseline;
+}
+
+.editor {
+    border: 1px solid rgb(128, 0, 0);
+    background-color: lightgrey;
+    margin: auto;
+    
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 2px;
+    border-radius: 5px;
+    height: 215px;
+}
+
+.sampler {
+    border: 1px solid black;
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-left: 5px;
+    border-radius: 5px;
+    position: relative;
+    height: 215px;
+}
+
+#instructions {
+    width: 600px;
+    margin: auto;
+}
+
+.data {
+    width: 600px; 
+    border: 1px solid black;
+    background-color: lightgrey;
+    padding: 0.5em;
+    margin: auto;
+}
+
+.json {
+    border: 1px solid black;
+    width: 500px;
+    min-height: 50px;
+    padding: 10px;
+}
+/* custom range slider */
+input[type="range"] {
+    -webkit-appearance: none;
+    appearance: none;
+   }
+   
+   input[type="range"]:focus {
+    outline: none;
+   }
+
+   input[type="range"]::-webkit-slider-runnable-track {
+    background: gold;
+    height: 5px;
+   }
+   
+   input[type="range"]::-moz-range-track {
+    background: gold;
+    height: 5px;
+   }
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 15px;
+    width: 5px;
+    background: maroon;
+    margin-top: -5px;
+    border-radius: 20%;
+   }
+   
+   input[type="range"]::-moz-range-thumb {
+    height: 15px;
+    width: 15px;
+    background: maroon;
+    margin-top: -5px;
+    border-radius: 50%;
+   }
+
+
+
+
+ 
+   

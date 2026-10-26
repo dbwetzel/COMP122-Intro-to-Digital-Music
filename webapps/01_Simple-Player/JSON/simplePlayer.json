@@ -1,0 +1,97 @@
+{
+  "share" : "https://editor.p5js.org/dbwetzel/full/3R_7_GCXQ",
+  "samples" : {
+      "A3": "drums/Kick.wav",
+      "A#3": "drums/Kick.wav",
+      "B3": "drums/Snare.wav",
+      "C4": "drums/Claps.wav",
+      "C#4": "drums/Shot1.wav",
+      "D#4": "drums/Shot2.wav",
+      "D4": "drums/WhiteNoise.wav",
+      "E4": "drums/ReverseCymbal.wav",
+      "F4": "drums/HiHat_Closed.wav",
+      "F#4": "drums/HiHat_Open.wav"
+  },
+  "buttons" :[
+    {
+      "pitch" : "G3",
+      "label" : "G3",
+      "type" : "synth"
+    },
+    {
+      "pitch" : "A3",
+      "label" : "A3",
+      "type" : "synth"
+    },
+    {
+      "pitch" : "C4",
+      "label" : "C4",
+      "type" : "synth"
+    },
+    {
+      "pitch" : "D4",
+      "label" : "D4",
+      "type" : "synth"
+    },
+    {
+      "pitch" : "E4",
+      "label" : "E4",
+      "type" : "synth"
+    },
+    {
+      "pitch" : "G4",
+      "label" : "G4",
+      "type" : "synth"
+    },
+    {
+      "pitch" : "A4",
+      "label" : "A4",
+      "type" : "synth"
+    },
+    {
+      "pitch" : "C5",
+      "label" : "C5",
+      "type" : "synth"
+    },
+    {
+      "pitch" : "A3",
+      "label" : "Kick",
+      "type" : "sampler"
+    },
+    {
+      "pitch" : "B3",
+      "label" : "Snare",
+      "type" : "sampler"
+    },
+    {
+      "pitch" : "C4",
+      "label" : "Clap",
+      "type" : "sampler"
+    },
+    {
+      "pitch" : "C#4",
+      "label" : "Shot1",
+      "type" : "sampler"
+    },
+    {
+      "pitch" : "D#4",
+      "label" : "Shot2",
+      "type" : "sampler"
+    },
+    {
+      "pitch" : "D4",
+      "label" : "Noise",
+      "type" : "sampler"
+    },
+    {
+      "pitch" : "F4",
+      "label" : "Hat-clsd.",
+      "type" : "sampler"
+    },
+    {
+      "pitch" : "F#4",
+      "label" : "Hat-open",
+      "type" : "sampler"
+    }
+  ]
+}

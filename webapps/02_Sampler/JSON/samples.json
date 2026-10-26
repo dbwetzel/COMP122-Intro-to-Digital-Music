@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Hat Shaker",
+    "file": "samples/Hat-Shaker Loop - 124.wav",
+    "bpm": "124",
+    "transpose": 0,
+    "tuning": 0,
+    "loop": "2m",
+    "grain": 0.1,
+    "overlap": 0.05
+  },
+  {
+    "name": "Apollo Guitar",
+    "file": "samples/Apollo01-Guitar_75bpm_Bb.mp3",
+    "bpm": "75",
+    "transpose": 0,
+    "tuning": 0,
+    "loop": "8m",
+    "grain": "0.061",
+    "overlap": "0.191"
+  },
+  {
+    "name": "Fear Itself",
+    "file": "samples/FDR_fear_itself.mp3",
+    "bpm": 120,
+    "transpose": 0,
+    "tuning": 0,
+    "loop": "2m",
+    "grain": 0.1,
+    "overlap": 0.05
+  }
+]

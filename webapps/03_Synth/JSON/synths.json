@@ -1,0 +1,86 @@
+[
+    {
+    "patch": "Van Halen Jump",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.035",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "0.695",
+        "releaseCurve": "exponential",
+        "sustain": "0.505"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fatsawtooth",
+        "count": 3,
+        "spread": 20
+      }
+    }
+  },
+  {
+    "patch": "FM Clarinet",
+    "type": "Synth",
+    "settings": {
+      "volume": -6.000000000000001,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.035",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "0.175",
+        "releaseCurve": "sine",
+        "sustain": "0.705"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fmtriangle",
+        "harmonicity": 2,
+        "modulationIndex": 2,
+        "modulationType": "square"
+      }
+    }
+  },
+  {
+    "patch": "AM Organ",
+    "type": "Synth",
+    "settings": {
+      "volume": -3.9999999999999996,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.015",
+        "attackCurve": "linear",
+        "decay": "0.125",
+        "decayCurve": "exponential",
+        "release": "0.535",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 4,
+        "partials": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "phase": 0,
+        "type": "amsine4",
+        "harmonicity": 5,
+        "modulationType": "sine"
+      }
+    }
+  }
+]

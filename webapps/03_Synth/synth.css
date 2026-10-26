@@ -1,0 +1,92 @@
+:root {
+    --color-lightest: #f9fdfe;
+    --color-gray-light: #cdcfcf;
+    --color-gray-medium: #686a69;
+    --color-gray-dark: #414643;
+    --color-darkest: #2a2f2c;
+  }
+  
+  *,
+  ::before,
+  ::after {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .test {
+    margin: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    align-items: center;
+    width: 350px;
+    height: 40px;
+    font-size: 18px;
+    justify-content: space-around;
+  }
+  
+pre{
+  background: var(--color-lightest);
+  height : 300px;
+  overflow: auto;
+  margin: 1rem;
+  font-size:10px;
+}
+
+  .keyboard{
+    margin: 1rem;
+    margin-left: 2rem;
+  }
+
+  p{
+    margin: 1.5rem
+  }
+
+  #instructions, .data{
+    margin: 1rem;
+  }
+
+  body {
+    background: var(--color-lightest);
+    color: var(--color-gray-medium);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+      Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 18px;
+    line-height: 1.2;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  /* Headings use a different font because they’re hipsters. */
+  h1,
+  h2 {
+    color: var(--color-darkest);
+    font-size: 110%;
+    line-height: 1.2;
+    margin-top: 2rem;
+  }
+  
+  h1 {
+    font-size: 125%;
+  }
+
+#patchMenu {
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 5px 5px;
+  background-color: var(--color-gray-medium);
+  color: white;
+}
+
+.button{
+  background-color: var(--color-gray-medium); /* Gray background */
+  color: white; /* White text */
+  padding: 10px 10px; /* Top/bottom and left/right padding */
+  text-align: center; /* Center the text */
+  text-decoration: none; /* Remove underline for anchor elements */
+  display: inline-block; /* Allows width/height and margin/padding */
+  font-size: 14px; /* Font size */
+  border-radius: 8px; /* Rounded corners */
+  border: none; /* No border */
+  cursor: pointer; /* Change cursor on hover */
+}

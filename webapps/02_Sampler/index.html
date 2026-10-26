@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.11.8/lib/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/15.5.43/Tone.js"></script>
+    <link rel="stylesheet" type="text/css" href="scripts/sampler.css">
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <main>
+      <div id="title">
+        <h1>One-Shot Sampler</h1>
+        <p><i>Sample meta-data editor by D. B. Wetzel (Sept. 2025) for COMP/MUSC 122 Intro to Digital Music (LUC). Version 2.0</i></p>
+        <p>Upload sound files to play them as "one-shot" or looping samples in an interactive system. 
+            Tag your samples with meta-data that defines how they play back. 
+            Generate a JSON data file that you can upload to this web app with your samples.</p>
+    </div>
+<!--     <div id="editor"></div>--> 
+     <div id="metronome">
+
+     </div>
+      <div id="library">
+      </div>
+      <div id = "addSample"></div>
+      <div id = "instructions">
+    </div><br>
+    <div class="data">
+        <h2>Sampler Data (JSON)</h2>
+        <pre class="json"></pre>
+    </div>
+      <div>
+<!--        <button id="fileSelect" type="button">Upload Sample File</button>
+        <input type="file" id="fileElem" style="display:none" accept="audio/*"/>
+      -->      
+    </div>
+    </main>
+    <script src = "scripts/FileSaver.min.js"></script>
+    <script src = "scripts/jszip.min.js"></script>
+    <script src="scripts/metroGUI.js"></script>
+    <script src="scripts/metroGUI2.js"></script>
+    <script src="scripts/sampleGUI.js"></script>
+    <script src="scripts/sampler-script.js"></script>
+  </body>
+</html>

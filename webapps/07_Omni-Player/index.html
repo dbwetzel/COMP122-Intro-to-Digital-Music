@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/15.1.3/Tone.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"> </script> 
+    <link rel="stylesheet" type="text/css" href="omniplayer.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <main>
+      <div id="title">
+        <h1>Omni Player</h1>
+        <div class = "menuDiv" id="showQR">Show QR code</div>
+        <div id="QRLink"></div> 
+        <p><i>Web App playalong by D. B. Wetzel (2026) for COMP/MUSC 122 Intro to Digital Music (LUC)</i></p>
+
+      </div>
+      <div class="machine">
+        <!-- container div for beats and editors -->
+        <div id="metro-menu" class="menuDiv" style="width: 200px;">Metronome</div>
+        <div id = "metronome"> 
+          <!-- P5 instance of metroGUI -->
+        </div>
+        <div id="notepad-menu" class="menuDiv" style="width: 200px;">Note Pad</div>
+        <div id = "simplePlayer">
+          <!-- P5 instance of metroGUI -->
+        </div>
+        <div id="sampler-menu" class="menuDiv" style="width: 200px;">Sampler</div>
+        <div id = "sampler"></div>
+        <div id="beats-menu" class="menuDiv" style="width: 200px;">Beats</div>
+        <div id = "sampler"></div>
+        <div id="sequence-menu" class="menuDiv" style="width: 200px;">Sequences</div>
+        <div id = "sampler"></div>
+        <div id="markov-menu" class="menuDiv" style="width: 200px;">Markov</div>
+        <div id = "markov"></div>
+      </div>
+
+    </main>
+    <script src="scripts/metroGUI.js"></script>
+    <script src="scripts/simplePlayer.js"></script>
+    <script src="scripts/omniplayer.js"></script>
+
+    <!-- <script src="beats.js"></script> -->
+  </body>
+</html>

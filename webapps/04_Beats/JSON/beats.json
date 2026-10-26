@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Basic House",
+    "tempo": "120",
+    "beats": [
+      {
+        "label": "Kick",
+        "pitch": "A3",
+        "pattern": "1000",
+        "accents": "0000"
+      },
+      {
+        "label": "Clap",
+        "pitch": "C4",
+        "pattern": "00001000",
+        "accents": "00000000"
+      },
+      {
+        "label": "Hi Hat",
+        "pitch": "F4",
+        "pattern": "10110101101001010011100",
+        "accents": "00100000100000010000000"
+      }
+    ]
+  },
+  {
+    "name": "Polyrhythm 3-4-5",
+    "tempo": "120",
+    "beats": [
+      {
+        "label": "Three",
+        "pitch": "F4",
+        "pattern": "100",
+        "accents": "100"
+      },
+      {
+        "label": "Four",
+        "pitch": "F4",
+        "pattern": "1000",
+        "accents": "1000"
+      },
+      {
+        "label": "Five",
+        "pitch": "F4",
+        "pattern": "10000",
+        "accents": "10000"
+      }
+    ]
+  },
+  {
+    "name": "Shuffle",
+    "tempo": "120",
+    "beats": [
+      {
+        "label": "Kick",
+        "pitch": "A3",
+        "pattern": "1000",
+        "accents": "0000"
+      },
+      {
+        "label": "Snare",
+        "pitch": "B3",
+        "pattern": "0001000001100010",
+        "accents": "0000000000000000"
+      },
+      {
+        "label": "Claps",
+        "pitch": "C4",
+        "pattern": "11001000001100",
+        "accents": "00000000001000"
+      },
+      {
+        "label": "Open Hat",
+        "pitch": "F#4",
+        "pattern": "0010001000100010",
+        "accents": "0000000000000000"
+      },
+      {
+        "label": "Closed Hat",
+        "pitch": "F4",
+        "pattern": "1100101001011001010",
+        "accents": "1000001000001000000"
+      }
+    ]
+  },
+  {
+    "name": "Clapping Music",
+    "tempo": 84,
+    "beats": [
+      {
+        "label": "One",
+        "pitch": "C4",
+        "pattern": "111011010110",
+        "accents": "100000000000",
+        "mute" : false
+      },
+      {
+        "label": "Two-A",
+        "pitch": "C4",
+        "pattern": "111011010110",
+        "accents": "100000000000",
+        "mute" : false
+      },
+      {
+        "label": "Two-B",
+        "pitch": "C4",
+        "pattern": "110110101101",
+        "accents": "000000000001",
+        "mute" : true
+      },
+      {
+        "label": "Two-C",
+        "pitch": "C4",
+        "pattern": "101101011011",
+        "accents": "000000000010",
+        "mute" : true
+      },
+      {
+        "label": "Two-D",
+        "pitch": "C4",
+        "pattern": "011010110111",
+        "accents": "000000000100",
+        "mute" : true
+      },
+      {
+        "label": "Two-E",
+        "pitch": "C4",
+        "pattern": "110101101110",
+        "accents": "000000001000",
+        "mute" : true
+      },
+      {
+        "label": "Two-F",
+        "pitch": "C4",
+        "pattern": "101011011101",
+        "accents": "000000010000",
+        "mute" : true
+      },
+      {
+        "label": "Two-G",
+        "pitch": "C4",
+        "pattern": "010110111011",
+        "accents": "000000100000",
+        "mute" : true
+      },
+      {
+        "label": "Two-H",
+        "pitch": "C4",
+        "pattern": "101101110110",
+        "accents": "000001000000",
+        "mute" : true
+      },
+      {
+        "label": "Two-I",
+        "pitch": "C4",
+        "pattern": "011011101101",
+        "accents": "000010000000",
+        "mute" : true
+      },
+      {
+        "label": "Two-J",
+        "pitch": "C4",
+        "pattern": "110111011010",
+        "accents": "000100000000",
+        "mute" : true
+      },
+      {
+        "label": "Two-K",
+        "pitch": "C4",
+        "pattern": "101110110101",
+        "accents": "001000000000",
+        "mute" : true
+      },
+      {
+        "label": "Two-L",
+        "pitch": "C4",
+        "pattern": "011101101011",
+        "accents": "010000000000",
+        "mute" : true
+      },
+      {
+        "label": "Two-M",
+        "pitch": "C4",
+        "pattern": "111011010110",
+        "accents": "100000000000",
+        "mute" : true
+      }
+    ]
+  }
+]

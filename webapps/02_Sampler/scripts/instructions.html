@@ -1,0 +1,24 @@
+        <h3>Instructions</h3>
+        <p>Use this tool to tag your samples with information ("meta-data") that will tell the COMP 122 Web App how to play back your samples</p>
+        <ol>
+          <li>In the first sampler slot (above), use the "Load File" button to locate a sample file (.wav or .mp3) on your computer that you want to use in the interactive web app</li>
+          <li>If your sample file is in the correct format, you should see the "play" and "stop" buttons turn color, and a level meter will appear</li>
+          <ul><li>if not, there may be a problem with your audio sample file</li></ul>
+          <li>Fill in information for Name, BPM, Loop, Grain size, and Overlap</li>
+          <ul>
+            <li><b>Name:</b> a label for your sample so you can identify it</li>
+            <li><b>BPM:</b> the base tempo of your sample. This will determine its playback speed in the interactive app. If you tag your sample with a BPM of 75, that indicates that the normal playback speed of this sample has a tempo of 75 beats per minute. If the tempo of the player is set at 120 bpm, the your 75 bpm sample will play back faster. If you want your sample to play normal speed when the player is running at 120 (the default), then leave this field set at 120</li>
+            <li><b>Loop:</b> the loop interval for your sample. This determines how often your sample will repeat when the "L" button is pressed. A value of "1m" is one measure. "2m" is 2 measures. A number with no letters should be interpreted as a time in seconds. More on Tone.js Time notation later</li>
+            <li><b>Grain Size:</b> this sampler uses "granular" playback to achieve time stretching. The grain size is the length of each individual burst of sound taken from the sample file. The default is 0.04, or 40 milliseconds</li>
+            <li><b>Overlap:</b> sets the crossfade time between individual grains during granular playback. The default is 0.01, or 10 milliseconds</li>
+          </ul>
+          <li>Press the "Update JSON" button to see your sampler meta-data formatted for JavaScript Object Notation (JSON)</li>
+          <li>Repeat steps 1 - 4 at least two more times ("add sample player" button to add a new sampler), so you have a total of three (3) samples tagged and ready to go.</li>
+          <li>Press the "Download JSON" button to download the a file named "samples.json" to your computer (check your Downloads folder)</li>
+          <li>Better yet, press the "Download .zip" button to download your .json file PLUS your samples in a nice package with a folder structure that looks like the one on GitHub.</li>
+          <li>In your GitHub repository for the COMP122-Player Project (see instructions and links on Sakai to get started), upload your files to the correct locations</li>
+          <ul>
+            <li><b>/JSON/</b> (folder) - upload your file samples.json, and make sure to <b>replace</b> the starter file that came with the template</li>
+            <li><b>/samples/</b> (folder) - upload your .wav or .mp3 sound files to this folder. If you downloaded everything as a .zip, when you open that file you will see you samples organized in a "samples" folder already</li>
+          </ul>
+        </ol>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tone/15.1.3/Tone.js"></script>
+    <link rel="stylesheet" type="text/css" href="markov.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>
+    <main>
+      <div id="title"><h1>Markov Generator Designer (beta v. 0.4)</h1>
+        <p><i>editor/player interface by D. B. Wetzel (Dec. 2025) for COMP/MUSC 122 Intro to Digital Music (LUC)</i></p>
+        
+      </div>
+      <div class="machine">
+        <!-- container div for beats and editors -->
+        <div id = "metronome" class="metronome">
+          <!-- P5 instance of metroGUI -->
+        </div>
+        <div id="editor" class="controller">
+          <!-- P5 Instance of markovGUI editor -->
+        </div>
+        <h2>Markov Graph Player Library</h2>
+        <div id="container" class="container"> 
+
+            <!-- P5 instances of markov mini GUIs from markov.json -->
+          
+        </div>
+      </div>
+
+
+    <div class="data">
+        <h2>Music Generator Data (JSON)</h2> 
+        <button id = "download">Download JSON</button>
+        <input type="file" id="fileElem" style="display:none" />
+        <button id = "upload">Open JSON (edit previous)</button>
+      <button id = "copy">Copy to Clipboard</button>
+        <pre class="json" id="json"></pre>
+    </div>
+      <div>
+<!--        <button id="fileSelect" type="button">Upload Sample File</button>
+        <input type="file" id="fileElem" style="display:none" accept="audio/*"/>
+      -->      </div>
+    </main>
+    <script src = "qrcode.min.js"></script>
+    <script src = "FileSaver.min.js"></script>
+    <script src = "jszip.min.js"></script>
+    <script src="synths.js"></script>
+    <script src="metroGUI.js"></script>
+    <script src="markovPlayerGUI.js"></script>
+    <script src="markovEditorGUI.js"></script>
+    <script src="markovGUI.js"></script>
+    <script src="markov.js"></script>
+    
+    
+
+    <!-- <script src="beats.js"></script> -->
+  </body>
+</html>
